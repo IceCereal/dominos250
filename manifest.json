@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Dominos 250",
+	"version": "0.1",
+	"icons": {
+		"512": "icons/512.png"
+	},
+	"description": "A Hackable search for the 21st Century",
+	"page_action": {
+		"default_icon": "icons/16.png",
+		"default_title": "Dominos 250"
+	},
+
+	"background": {
+		"scripts": ["display.js"]
+	}
+}
